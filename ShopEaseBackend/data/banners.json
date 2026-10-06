@@ -1,0 +1,18 @@
+[
+  {
+    "id": "b1",
+    "title": "Mega Sale",
+    "subtitle": "Up to 50% Off",
+    "buttonText": "Shop Now",
+    "bgGradient": ["#6C5CE7", "#a29bfe"],
+    "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=500&q=80"
+  },
+  {
+    "id": "b2",
+    "title": "New Tech Arrivals",
+    "subtitle": "Special Launch Discounts",
+    "buttonText": "Explore Tech",
+    "bgGradient": ["#00cec9", "#74b9ff"],
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&q=80"
+  }
+]
